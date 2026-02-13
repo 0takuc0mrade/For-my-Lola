@@ -6,6 +6,14 @@ import { Card, CardContent } from "@/components/ui/card"
 import Image from 'next/image'
 
 const images = [
+  "/images/gallery/IMG-20251101-WA0043.jpg",
+  "/images/gallery/IMG-20251101-WA0035.jpg",
+  "/images/gallery/IMG-20251101-WA0012.jpg",
+  "/images/gallery/IMG-20251101-WA0010.jpg",
+  "/images/gallery/IMG-20251031-WA0785.jpg",
+  "/images/gallery/IMG-20250513-WA0125.jpg",
+  "/images/gallery/IMG-20250513-WA0047.jpg",
+  "/images/gallery/IMG-20250513-WA0044.jpg",
   "/images/gallery/IMG-20251106-WA0027.jpg",
   "/images/gallery/IMG-20251107-WA0003.jpg",
   "/images/gallery/IMG-20251107-WA0004.jpg",
